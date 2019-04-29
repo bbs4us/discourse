@@ -1,4 +1,4 @@
-# encoding: utf-8
+34# encoding: utf-8
 #
 # Never edit this file. It will be overwritten when translations are pulled from Transifex.
 #
@@ -131,7 +131,7 @@ zh_CN:
         first_response: |-
           你好，感谢回复！
 
-          不幸的是，我是别人随手写的机器人，我其实不太懂这个。:fronwing:
+          不幸的是，我是别人随手写的机器人，我其实不太懂这个。:frowning:
         track_response: 你可以再试一次，或者你想要跳过这个步骤，说`%{skip_trigger}`。不然的话，说`%{reset_trigger}`重新开始。
         second_response: |-
           啊，抱歉。我还是没懂。 :anguished:
